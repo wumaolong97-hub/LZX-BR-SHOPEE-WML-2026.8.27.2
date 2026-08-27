@@ -1,0 +1,6 @@
+{
+  "name": "LZX 巴西 Shopee WML 计价表",
+  "description": "跨境电商Shopee巴西站专业利润与定价计算工具 (Professional Shopee Brazil Profit Calculator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
